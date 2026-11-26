@@ -1,0 +1,21 @@
+# ROS2 generated directories
+build/
+install/
+log/
+
+# IDE settings
+.vscode/
+
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+
+# Python cache
+__pycache__/
+*.pyc
